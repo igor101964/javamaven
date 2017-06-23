@@ -6,7 +6,7 @@
 
 # Recipe
 
-FROM [codenvy/ubuntu_jdk8](https://hub.docker.com/r/codenvy/ubuntu_jdk8/)
+FROM [Art2Dec](https://www.appservgrid.com/paw3)
 
 # Commands
 
