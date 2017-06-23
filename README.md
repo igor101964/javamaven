@@ -1,8 +1,8 @@
-# desktop-java-simple
+# Java Maven Project Template
 
 # Developer Workspace
 
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=omriatu352kkthua)
+[![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Recipe
 
